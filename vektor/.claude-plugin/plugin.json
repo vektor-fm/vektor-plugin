@@ -1,0 +1,10 @@
+{
+  "name": "vektor",
+  "displayName": "vektor.fm",
+  "version": "0.1.0",
+  "description": "Hands-on missions that make you genuinely good at Claude Code — verified in your own terminal, not self-reported. Start with /vektor:start.",
+  "author": { "name": "Vektor" },
+  "homepage": "https://vektor.fm",
+  "license": "UNLICENSED",
+  "keywords": ["education", "course", "missions", "token-efficiency", "learning"]
+}

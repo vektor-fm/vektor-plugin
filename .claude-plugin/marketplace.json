@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "vektor",
+  "owner": {
+    "name": "Vektor"
+  },
+  "description": "vektor.fm — verified, learn-by-doing missions for Claude Code",
+  "plugins": [
+    {
+      "name": "vektor",
+      "source": "./vektor",
+      "displayName": "vektor.fm",
+      "description": "Hands-on missions that make you genuinely good at Claude Code — verified in your own terminal, not self-reported.",
+      "author": { "name": "Vektor" },
+      "keywords": ["education", "course", "missions", "token-efficiency", "learning"]
+    }
+  ]
+}
