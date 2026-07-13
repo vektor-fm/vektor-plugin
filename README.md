@@ -6,7 +6,7 @@ in your own terminal by your own agent, not self-reported.
 ## Install (two lines, inside Claude Code)
 
 ```
-/plugin marketplace add julianlaycock/vektor-plugin
+/plugin marketplace add vektor-fm/vektor-plugin
 /plugin install vektor@vektor
 ```
 
